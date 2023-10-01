@@ -1,5 +1,11 @@
 # Godot 4+ specific ignores
 .godot/
+.git/
 android/
 dtc.exe
 "Dodge The Creeps.x86_64"
+*.exe
+*.sh
+icon.svg
+.gitignore
+.gitattributes
